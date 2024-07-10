@@ -7,3 +7,6 @@ Check out my projects below, or some of my published projects:
 - My blog, where I outline more projects: [blog](http://smartycope.github.io)
 
 Feel free to email me at [smartycope@gmail.com](emailto:smartycope@gmail.com)
+
+| ![Overall Stats](https://github-readme-stats.vercel.app/api?username=smartycope&count_private=true&show_icons=true&hide=stars)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartycope&layout=compact) | 
+| ---- | ---- |
