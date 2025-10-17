@@ -1,5 +1,5 @@
 # Copeland Carter
-### Software Engineer | Full Stack Developer | Data Engineer
+### Software Engineer | Full Stack Developer | Data Scientist
 ---
 Check out my projects below, or some of my published projects:
 - Regular Expression genererator, and more: [EZRegex](http://ezregex.org)
